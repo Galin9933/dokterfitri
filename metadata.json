@@ -1,0 +1,8 @@
+{
+  "name": "Dokter Cinta - Author Profile",
+  "description": "A vibrant, Gen Z-styled profile website for the novel 'Dokter Cinta' by dr. Fitri, featuring admin statuses, testimonials with comments, and direct WhatsApp integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
